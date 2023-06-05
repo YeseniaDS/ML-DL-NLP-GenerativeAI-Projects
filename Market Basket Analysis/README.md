@@ -1,4 +1,4 @@
-## Introduction to Market Basket Analysis
+## Introduction to Market Basket Analysis (MBA)
   
 ### 1. Glossary
 
