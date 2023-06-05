@@ -13,7 +13,7 @@
 - Customer shopping analysis
 - Recommender system
 
-![image](https://github.com/YeseniaDS/ML-DL-NLP-GenerativeAI-Projects/assets/31481788/5c8f70af-706f-4759-969a-d7d6c2058d2c)
+<img src="https://github.com/YeseniaDS/ML-DL-NLP-GenerativeAI-Projects/assets/31481788/5c8f70af-706f-4759-969a-d7d6c2058d2c" width="600" />
 
 ### 3. How to do MBA and how to use MBA?
 
@@ -22,7 +22,7 @@
 - Develop marketing strategies by gaining insights into which items are frequently bought together by customers
 - Execute selective marketing based on predictions, cross-selling, and planning their ledge space for optimal product placement
 
-![image](https://github.com/YeseniaDS/ML-DL-NLP-GenerativeAI-Projects/assets/31481788/f2240669-fbb5-4b06-acd3-2e50c8345c5e)
+<img src="https://github.com/YeseniaDS/ML-DL-NLP-GenerativeAI-Projects/assets/31481788/f2240669-fbb5-4b06-acd3-2e50c8345c5e" width="400" />
 
 ### 4. How dose MBA work?
 
@@ -57,7 +57,7 @@
 		
 - __FP Growth:__ known as Frequent Pattern Growth Algorithm. FP growth algorithm is a concept of representing the data in the form of an FP tree or Frequent Pattern. Hence FP Growth is a method of Mining Frequent Itemsets. This algorithm is an advancement to the Apriori Algorithm. There is no need for candidate generation to generate a frequent pattern. This frequent pattern tree structure maintains the association between the itemsets. A Frequent Pattern Tree is a tree structure that is made with the earlier itemsets of the data. The main purpose of the FP tree is to mine the most frequent patterns. Every node of the FP tree represents an item of that itemset. The root node represents the null value, whereas the lower nodes represent the itemsets of the data. The association of these nodes with the lower nodes, that is, between itemsets, is maintained while creating the tree. 
 
-![image](https://github.com/YeseniaDS/ML-DL-NLP-GenerativeAI-Projects/assets/31481788/5330f42b-5857-428a-bdc3-33b09bf82cd2)
+<img src="https://github.com/YeseniaDS/ML-DL-NLP-GenerativeAI-Projects/assets/31481788/5330f42b-5857-428a-bdc3-33b09bf82cd2" width="600" />
 		
 - __ECLAT Algorithm:__ ECLAT algorithm stands for Equivalence Class Clustering and bottom-up Lattice Traversal. It is one of the popular methods of Association Rule mining. It is a more efficient and scalable version of the Apriori algorithm. While the Apriori algorithm works in a horizontal sense imitating the Breadth-First Search of a graph, the ECLAT algorithm works in a vertical manner just like the Depth-First Search of a graph. This vertical approach of the ECLAT algorithm makes it a faster algorithm than the Apriori algorithm.
 
