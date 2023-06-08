@@ -1,4 +1,6 @@
 ## Introduction to Market Basket Analysis (MBA)
+
+Market basket analysis is a data mining technique retailers use to increase sales by better understanding customer purchasing patterns. It involves analyzing large data sets, such as purchase history, to reveal product groupings and products likely to be purchased together.
   
 ### 1. Glossary
 
